@@ -222,12 +222,12 @@ Contributing to student engagement initiatives within a multicultural, cross-fun
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivam1-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats-indol-delta-15.vercel.app/api?username=shivam1-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1-op&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats-indol-delta-15.vercel.app/api/top-langs/?username=shivam1-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
 </div>
 
